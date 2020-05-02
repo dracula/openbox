@@ -15,7 +15,7 @@ menu.title.text.justify:        Center
 menu.items.bg:                  flat solid
 menu.items.bg.color:            #282A36
 
-menu.items.text.color:          #BFBFBF
+menu.items.text.color:          #f8f8f2
 menu.items.disabled.text.color: #282A36
 
 menu.items.active.bg:           flat solid
@@ -31,7 +31,7 @@ window.active.title.separator.color:                  #282A36
 window.active.text.justify:                           center
 
 window.active.label.bg:                               parentrelative
-window.active.label.text.color:                       #BFBFBF
+window.active.label.text.color:                       #f8f8f2
 
 window.active.handle.bg:                              flat solid
 window.active.handle.bg.color:                        #BD93F9
@@ -84,7 +84,7 @@ window.inactive.title.separator.color:                #282A36
 window.inactive.text.justify:                         center
 
 window.inactive.label.bg:                             parentrelative
-window.inactive.label.text.color:                     #BFBFBF
+window.inactive.label.text.color:                     #f8f8f2
 
 window.inactive.handle.bg:                            flat solid
 window.inactive.handle.bg.color:                      #FF79C6
