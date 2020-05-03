@@ -32,7 +32,3 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [MIT License](./LICENSE)
-
-| [![César Salazar](https://gitlab.com/uploads/-/system/user/avatar/4406807/avatar.png?)](https://gitlab.com/the-zero885) |
-|---|
-| <div align="center">**César Salazar**<br>[Gitlab Profile](https://gitlab.com/the-zero885)<br>[Github Profile](https://github.com/the-zero885)</div> |
