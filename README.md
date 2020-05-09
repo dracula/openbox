@@ -19,7 +19,7 @@
 ## Install
 Place the repository folders: **Dracula** and **Dracula-withoutBorder** in the <code>/home/your-user/.themes</code> directory and select with the **Openbox configuration** the theme of your preference.
 
-To install the menu, first install with Muon/Synaptic package manager: <code>openbox-menu</code> and <code>lxmenu-data</code> (o en su defecto hacer un <code>sudo apt-get install openbox-menu lxmenu-data</code>) and copy the file **menu.xml** to the <code>/home/your-user/.config/openbox</code> folder depending on your desktop language and whether it is LXDE or LXQt (this so that it shows the corresponding applications and options that each menu has in its DE). 
+To install the menu, first install with Muon/Synaptic package manager: <code>openbox-menu</code> and <code>lxmenu-data</code> (or write in the terminal <code>sudo apt-get install openbox-menu lxmenu-data</code>) and copy the file **menu.xml** to the <code>/home/your-user/.config/openbox</code> folder depending on your desktop language and whether it is LXDE or LXQt (this so that it shows the corresponding applications and options that each menu has in its DE). 
 
 ## Team
 
