@@ -2,8 +2,7 @@
 
 > A dark theme for Openbox WM based on the [Dracula color scheme](https://draculatheme.com). It is compatible with the Ant-Dracula GTK and KDE themes. It's also available on [Gitlab](https://gitlab.com/the-zero885/dracula-for-openbox).
 
-**Theme with border**
-![Theme with border](dracula_withoutborder.png)
+![Openbox theme](dracula_screenshot.png)
 
 
 ## Install
