@@ -5,23 +5,10 @@
 **Theme with border**
 ![Theme with border](dracula_withoutborder.png)
 
-<hr>
-
-**Borderless theme**
-![Borderless theme](dracula_withborder.png)
-
-<hr>
-
-**Menu theme**<br>
-![Menu](context-menu.png)
-
 
 ## Install
-Place the repository folders: **Dracula** and **Dracula-withoutBorder** in the <code>/home/your-user/.themes</code> directory and select with the **Openbox configuration** the theme of your preference.
 
-To install the menu, first install with Muon/Synaptic package manager: <code>openbox-menu</code> and <code>lxmenu-data</code> (or write in the terminal <code>sudo apt-get install openbox-menu lxmenu-data</code>) and copy the file **menu.xml** to the <code>/home/your-user/.config/openbox</code> or <code>/usr/share/lubuntu/openbox/menu.xml</code> folder depending on your desktop language and whether it is LXDE or LXQt. 
-
-**Note:** 
+All instructions can be found at [INSTALL.md](./INSTALL.md) in repository folder.
 
 ## Team
 
