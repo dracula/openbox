@@ -2,7 +2,7 @@
 
 #### Install manually
 
-Place the repository folders: **Dracula** and **Dracula-withoutBorder** in the <code>/home/your-user/.themes</code> directory and select with the **Openbox configuration** the theme of your preference.
+Donwload and place the repository folders: **Dracula** and **Dracula-withoutBorder** in the <code>/home/your-user/.themes</code> directory and select with the **Openbox configuration** the theme of your preference.
 
 #### Install menu theme
 
